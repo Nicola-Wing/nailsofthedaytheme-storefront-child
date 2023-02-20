@@ -1,0 +1,10 @@
+2022-11-26T15:36:31+00:00 CRITICAL Maximum execution time of 60 seconds exceeded у D:\OpenServer\domains\nails-of-the-day.com\wp-includes\Requests\Transport\cURL.php доступно 165
+
+2022-11-26T16:18:30+00:00 CRITICAL Uncaught Error: Class 'WPDesk\FCF\Free\Settings\Tab\DisplayTab' not found in /home/vol12_4/epizy.com/epiz_32711088/htdocs/wp-content/plugins/flexible-checkout-fields/src/Settings/Tabs.php:27
+Stack trace:
+#0 /home/vol12_4/epizy.com/epiz_32711088/htdocs/wp-content/plugins/flexible-checkout-fields/src/Plugin.php(87): WPDesk\FCF\Free\Settings\Tabs->init()
+#1 /home/vol12_4/epizy.com/epiz_32711088/htdocs/wp-content/plugins/flexible-checkout-fields/classes/plugin.php(95): WPDesk\FCF\Free\Plugin->init()
+#2 /home/vol12_4/epizy.com/epiz_32711088/htdocs/wp-content/plugins/flexible-checkout-fields/vendor_prefixed/wpdesk/wp-plugin-flow/src/Initialization/BuilderTrait.php(66): Flexible_Checkout_Fields_Plugin->init()
+#3 /home/vol12_4/epizy.com/epiz_32711088/htdocs/wp-content/plugins/flexible-checkout-fields/vendor_prefixed/wpdesk/wp-plugin-flow/src/Initialization/Simple/SimpleFreeStrategy.php(53): FcfVendor\WPDesk\Plugin\Flow\Initialization\Simple\SimpleFreeStrategy->init_plugin(Object(Flexible_Checkout_Fields_Plugin))
+#4 / in /home/vol12_4/epizy.com/epiz_32711088/htdocs/wp-content/plugins/flexible-checkout-fields/src/Settings/Tabs.php on line 27
+

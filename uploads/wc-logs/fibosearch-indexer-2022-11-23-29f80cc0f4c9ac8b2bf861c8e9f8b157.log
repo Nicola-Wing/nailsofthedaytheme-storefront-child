@@ -1,0 +1,13 @@
+2022-11-23T19:15:53+00:00 INFO [3057528] Indexer mode: sync
+2022-11-23T19:15:53+00:00 INFO [3057528] Multilingual: Yes, Provider: qTranslate-XT, Default: en, Langs: en,de
+2022-11-23T19:15:53+00:00 INFO [3057528] Indexer prepared for building the index
+2022-11-23T19:15:56+00:00 INFO [3054535] Indexer started building the index
+2022-11-23T19:15:56+00:00 INFO [3054535] [Readable index] Building...
+2022-11-23T19:15:57+00:00 INFO [3054535] [Searchable index] Building...
+2022-11-23T19:15:57+00:00 INFO [3054535] [Searchable index] Completed
+2022-11-23T19:15:57+00:00 INFO [3054535] [Readable index] Processed 0 objects
+2022-11-23T19:15:57+00:00 INFO [3054535] [Readable index] Completed
+2022-11-23T19:15:57+00:00 INFO [3054535] [Taxonomy index] Building...
+2022-11-23T19:15:57+00:00 INFO [3054535] [Taxonomy index] Completed
+2022-11-23T19:15:57+00:00 INFO [3054535] Indexing completed
+2022-11-23T19:17:53+00:00 INFO [3061386] Indexer is not prepared for running

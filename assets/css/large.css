@@ -1,0 +1,274 @@
+@media (min-width: 1730px) {
+
+    /* Blog page */
+
+    .blog-posts-slider.tmpl-full-width-grid-wrapper .archive-post-wrapper {
+        gap: 54px 1%!important;
+    }
+
+    .blog-posts-slider.tmpl-full-width-grid-wrapper .archive-post-wrapper .notd-post-slider-cell {
+        width: 19.2%!important;
+    }
+
+    /* Product slider */
+
+    .product-slider.slider-wrapper li {
+        width: 18.4%!important;
+    }
+
+    .product-slider h3.constant-block.close-2 {
+        left: 18.4%!important;
+        width: 22.4%!important;
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    span#triangle, span#dot, span#square {
+        padding: 11px!important;
+        margin-left: 5px;
+    }
+
+    .product-slider.close-2 .flickity-prev-next-button.previous {
+        left: calc(36% - 9px)!important;
+    }
+
+    .product-slider.close-2 .flickity-prev-next-button.next {
+        left: 37%!important;
+    }
+
+    .product-slider h3.constant-block.close-4 {
+        left: 79.7%!important;
+        padding-left: 2%!important;
+        width: 20.4%!important;
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    .product-slider.close-4 .flickity-prev-next-button.previous {
+        left: calc(97% - 5px)!important;
+    }
+
+    .product-slider.close-4 .flickity-prev-next-button.next {
+        left: 98.3%!important;
+    }
+
+    .product-slider h3.constant-block.close-1 {
+        width: 20.4%!important;
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    .product-slider.close-1 .flickity-prev-next-button.previous {
+        left: 15.5% !important;
+    }
+
+    .product-slider.close-1 .flickity-prev-next-button.next {
+        left: 17% !important;
+    }
+
+    /* Product greed on category (archive) page */
+
+    .product-slider.tmpl-with-sidebar-grid-wrapper .archive-product-wrapper {
+        gap: 1%!important;
+    }
+
+    .product-slider.tmpl-with-sidebar-grid-wrapper .archive-product-wrapper li {
+        width: 24.25%!important;
+        margin: 0 0 1%!important;
+    }
+
+    ul.products li.product .price ins {
+        margin-left: 0!important;
+    }
+
+    /* Full-width grid of products */
+
+    .page-template-template-fullwidth-php .site-main ul.products.columns-3 li.product {
+        width: 18.4%!important;
+    }
+
+    /* Additional color products */
+
+    .additional-products-by-color-wrapper .colors-product-list-item {
+        width: 15.6%!important;
+    }
+
+    /* Wishlist icon on single product page */
+    .single-product-page .summary .addonify-add-to-wishlist-btn-wrapper,
+    .single-product-page .summary .added-to-wishlist .heart-style-one:before {
+        top: 0.7%!important;
+    }
+
+}
+
+@media (min-width: 2000px) {
+
+    .product-slider.slider-wrapper li {
+        width: 15.7%!important;
+        margin: 0 1% 0 0!important;
+    }
+
+    .product-slider h3.constant-block.close-2 {
+        left: 16%!important;
+        width: 17.2%!important;
+        font-size: 28px!important;
+        line-height: 22px!important;
+        padding-left: 1%!important;
+    }
+
+    span#triangle, span#dot, span#square {
+        padding: 8px !important;
+    }
+
+    .product-slider.close-2 .flickity-prev-next-button.previous {
+        left: 30%!important;
+    }
+
+    .product-slider.close-2 .flickity-prev-next-button.next {
+        left: 31%!important;
+    }
+
+    .product-slider h3.constant-block.close-4 {
+        left: 82.5%!important;
+        padding-left: 1%!important;
+        width: 18%!important;
+        font-size: 28px;
+        line-height: 22px;
+    }
+
+    .product-slider.close-4 .flickity-prev-next-button.next {
+        left: 98%!important;
+    }
+
+    .product-slider h3.constant-block.close-1 {
+        width: 16.6%!important;
+        font-size: 28px;
+        line-height: 22px;
+    }
+
+    .product-slider.close-1 .flickity-prev-next-button.previous {
+        left: 13.2% !important;
+    }
+
+    .product-slider.close-1 .flickity-prev-next-button.next {
+        left: 14.4% !important;
+    }
+
+    .price del span bdi .woocommerce-Price-currencySymbol {
+        display: none;
+    }
+
+    ul.products li.product .price ins, ul.products .wc-block-grid__product .price ins, .wc-block-grid__products li.product .price ins, .wc-block-grid__products .wc-block-grid__product .price ins {
+        margin-left: 0!important;
+    }
+
+    .wpc-filters-range-wrapper div:first-child::after {
+        margin: 0 7%;
+    }
+
+
+    /* Product greed on category (archive) page */
+
+    .product-slider.tmpl-with-sidebar-grid-wrapper .archive-product-wrapper li {
+        width: 19.2%!important;
+    }
+
+    /* Full-width grid of products */
+
+    .page-template-template-fullwidth-php .site-main ul.products.columns-3 li.product {
+        width: 15.8%!important;
+        margin: 0 0 1%!important;
+    }
+
+    .product-slider.tmpl-full-width-grid-wrapper .full-width-product-grip.archive-product-wrapper {
+        gap: 1%!important;
+    }
+
+    /* Between price filter inputs */
+    .wpc-filters-range-wrapper div:first-child::after {
+        left: 46%!important;
+    }
+
+    /* Additional color products */
+
+    .additional-products-by-color-wrapper .colors-product-list-item {
+        width: 13.2%!important;
+    }
+
+    /* Wishlist icon on single product page */
+    .single-product-page .summary .addonify-add-to-wishlist-btn-wrapper,
+    .single-product-page .summary .added-to-wishlist .heart-style-one:before {
+        top: 1%!important;
+        /*scale: 2!important;*/
+    }
+
+    /* Checkout */
+
+    .woocommerce-checkout form.checkout tfoot {
+        width: 106%!important;
+    }
+
+}
+
+@media (min-width: 2100px) {
+
+    /* Blog page */
+
+    .blog-posts-slider.tmpl-full-width-grid-wrapper .archive-post-wrapper .notd-post-slider-cell {
+        width: 15.8%!important;
+    }
+
+}
+
+@media (min-width: 2200px) {
+    /* Checkout */
+
+    .woocommerce-checkout form.checkout tfoot {
+        width: 105.5%!important;
+    }
+}
+
+@media (min-width: 2400px) {
+
+    /* Product greed on category (archive) page */
+
+    .product-slider.tmpl-with-sidebar-grid-wrapper .archive-product-wrapper li {
+        width: 15.8%!important;
+    }
+
+    /* Full-width grid of products */
+
+    .page-template-template-fullwidth-php .site-main ul.products.columns-3 li.product {
+        width: 13.4%!important;
+    }
+
+    /* Additional color products */
+
+    .additional-products-by-color-wrapper .colors-product-list-item {
+        width: 11.5%!important;
+    }
+
+    /* Checkout */
+
+    .woocommerce-checkout form.checkout tfoot {
+        width: 105%!important;
+    }
+}
+
+@media (min-width: 2500px) {
+
+    /* Blog page */
+
+    .blog-posts-slider.tmpl-full-width-grid-wrapper .archive-post-wrapper .notd-post-slider-cell {
+        width: 13.4%!important;
+    }
+
+}
+
+@media (min-width: 2600px) {
+    /* Checkout */
+
+    .woocommerce-checkout form.checkout tfoot {
+        width: 104.5%!important;
+    }
+}

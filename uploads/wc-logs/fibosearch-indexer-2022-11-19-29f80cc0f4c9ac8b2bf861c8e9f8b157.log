@@ -1,0 +1,19 @@
+2022-11-19T16:08:30+00:00 INFO [5764] Indexer mode: async
+2022-11-19T16:08:33+00:00 INFO [5764] [Searchable index] Cleared
+2022-11-19T16:08:33+00:00 INFO [5764] [Readable index] Cleared
+2022-11-19T16:08:33+00:00 INFO [5764] [Variations index] Cleared
+2022-11-19T16:08:33+00:00 INFO [5764] Multilingual: Yes, Provider: qTranslate-XT, Default: ua, Langs: ua,ru,en
+2022-11-19T16:08:33+00:00 INFO [5764] Indexer prepared for building the index
+2022-11-19T16:08:39+00:00 INFO [5764] Indexer started building the index
+2022-11-19T16:08:39+00:00 INFO [5764] [Readable index] Building...
+2022-11-19T16:08:45+00:00 INFO [5764] [Searchable index] Building...
+2022-11-19T16:08:59+00:00 INFO [5764] [Readable index] Processed 36 objects
+2022-11-19T16:08:59+00:00 INFO [5764] [Readable index] Completed
+2022-11-19T16:08:59+00:00 INFO [5764] [Variation index] Building...
+2022-11-19T16:09:09+00:00 INFO [5764] [Variation index] Processed 84 objects
+2022-11-19T16:09:09+00:00 INFO [5764] [Variation index] Completed
+2022-11-19T16:09:12+00:00 INFO [5764] [Searchable index] Processed 48 objects in 0.6487 s
+2022-11-19T16:09:15+00:00 INFO [5764] [Searchable index] Processed 96 objects in 0.6652 s
+2022-11-19T16:09:18+00:00 INFO [5764] [Searchable index] Processed 108 objects in 0.2738 s
+2022-11-19T16:09:18+00:00 INFO [5764] [Searchable index] Completed
+2022-11-19T16:09:19+00:00 INFO [5764] Indexing completed

@@ -1,0 +1,2 @@
+[2022-10-31 00:59:58] wpdesk.DEBUG: Sender payload: {"click_action":"no","url":"http:\/\/nails-of-the-day.com","localhost":"yes"} {"source":"wpdesk-sender"} []
+[2022-10-31 00:59:59] wpdesk.DEBUG: Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null} {"source":"wpdesk-sender"} []

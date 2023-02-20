@@ -1,0 +1,38 @@
+2022-11-06T14:48:46+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_loged_in() in D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\functions.php:1022
+Stack trace:
+#0 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\class-wp-hook.php(308): custom_user_options_page()
+#1 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 D:\OpenServer\domains\nails-of-the-day.com\wp-settings.php(617): do_action()
+#4 D:\OpenServer\domains\nails-of-the-day.com\wp-config.php(96): require_once('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\nails-of-the-day.com\wp-load.php(50): require_once('D:\\OpenServer\\d...')
+#6 D:\OpenServer\domains\nails-of-the-day.com\wp-admin\admin-ajax.php(22): require_once('D:\\OpenServer\\d...')
+#7 {main}
+  thrown in D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\functions.php on line 1022
+
+2022-11-06T14:48:48+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_loged_in() in D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\functions.php:1022
+Stack trace:
+#0 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\class-wp-hook.php(308): custom_user_options_page()
+#1 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 D:\OpenServer\domains\nails-of-the-day.com\wp-settings.php(617): do_action()
+#4 D:\OpenServer\domains\nails-of-the-day.com\wp-config.php(96): require_once('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\nails-of-the-day.com\wp-load.php(50): require_once('D:\\OpenServer\\d...')
+#6 D:\OpenServer\domains\nails-of-the-day.com\wp-admin\admin-ajax.php(22): require_once('D:\\OpenServer\\d...')
+#7 {main}
+  thrown in D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\functions.php on line 1022
+
+2022-11-06T14:48:52+00:00 CRITICAL Uncaught Error: Call to undefined function is_user_loged_in() in D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\functions.php:1022
+Stack trace:
+#0 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\class-wp-hook.php(308): custom_user_options_page()
+#1 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 D:\OpenServer\domains\nails-of-the-day.com\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 D:\OpenServer\domains\nails-of-the-day.com\wp-settings.php(617): do_action()
+#4 D:\OpenServer\domains\nails-of-the-day.com\wp-config.php(96): require_once('D:\\OpenServer\\d...')
+#5 D:\OpenServer\domains\nails-of-the-day.com\wp-load.php(50): require_once('D:\\OpenServer\\d...')
+#6 D:\OpenServer\domains\nails-of-the-day.com\wp-login.php(12): require('D:\\OpenServer\\d...')
+#7 {main}
+  thrown у D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\functions.php доступно 1022
+
+2022-11-06T14:58:55+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file у D:\OpenServer\domains\nails-of-the-day.com\wp-content\themes\storefront-child\author.php доступно 54
+
